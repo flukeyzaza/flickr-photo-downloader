@@ -1,15 +1,18 @@
 #labels fpdusage,0.1.1
 = Hou to use FPD 0.1.1 beta =
 
-1) *Account* name is *mandatory* and must be a real Flickr Account one.
+1) *account* name is *mandatory* and must be a real Flickr Account one
 
-FROM and TO page are NOT mandatory, in this case will be downloaded page
-FROM 1 to LAST ONE.
+2) *FROM and TO* page are *NOT mandatory*, in this case will be replaced with *FIRST PAGE* and *LAST ONE*
 
 
 WARNING
 
-1. if you have a proxy and you digit wrong parameters FPD will loop and you must close it through Task Manager.
+3) if you have a *PROXY* and you digit wrong parameters in the POPUP window for PROXY, FPD will loop and you must close it through Task Manager
 
-2. during download you cannot close app except with Task Manager
+4) during download you cannot close the app except through Task Manager
 (download process for many pages and 'Large Size' choice could be long, so be patient and wait, otherwise.....Task Manager and kill the process
+
+
+
+thank you for usage :)
