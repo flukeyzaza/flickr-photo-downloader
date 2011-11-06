@@ -1,8 +1,22 @@
-#summary One-sentence summary of this page.
+= Hou to use FPD 0.1.1 beta =
 
-= Introduction =
+Account name is mandatory and must be a real Flickr Account one.
 
-Add your content here.
+FROM and TO page are NOT mandatory, in this case will be downloaded page
+FROM 1 to LAST ONE.
+
+REMEMBER download process will start 
+
+WARNING
+
+1. if you have a proxy and you digit wrong parameters FPD will loop and you must close it through Task Manager.
+
+2. during download you cannot close app except with Task Manager
+(download process for many pages and 'Large Size' choice could be long, so be patient and wait, otherwise.....Task Manager and kill the process
+
+
+
+You can insert FROM and TO page
 
 
 = Details =
