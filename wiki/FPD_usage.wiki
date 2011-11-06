@@ -1,7 +1,7 @@
 #labels fpdusage,0.1.1
 = Hou to use FPD 0.1.1 beta =
 
-Account name is mandatory and must be a real Flickr Account one.
+1) *Account* name is *mandatory* and must be a real Flickr Account one.
 
 FROM and TO page are NOT mandatory, in this case will be downloaded page
 FROM 1 to LAST ONE.
@@ -13,15 +13,3 @@ WARNING
 
 2. during download you cannot close app except with Task Manager
 (download process for many pages and 'Large Size' choice could be long, so be patient and wait, otherwise.....Task Manager and kill the process
-
-
-
-You can insert FROM and TO page
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
