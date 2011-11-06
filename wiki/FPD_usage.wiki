@@ -1,5 +1,5 @@
 #labels fpdusage,0.1.1,help
-= Hou to use FPD 0.1.1 beta =
+= How to use FPD 0.1.1 beta =
 
 1) *account* name is *mandatory* and must be a real Flickr Account one
 
